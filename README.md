@@ -26,4 +26,5 @@ After cleaning the data with excel and analysing it with PowerBI, attached below
 From the report, it was revealed that the year 2004 had the most sales. Classic cars provided most of these sales followed by vintage cars. USA had the highest customer purchase followed by France and  November been the most successful month.
 
 ## Conclusion
-This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and User Experience through the .pbix version of the report provided. 
+This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and User Experience through the link provided below.
+[PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiNjEwYmJhYWMtMzg0Ny00MzIxLWIxODEtMWJlZGE2NGJjNDE3IiwidCI6IjQzZjFiNDVlLTIwODgtNGE4NS05MTE3LWM1ODhiODdiNDQwYSJ9)

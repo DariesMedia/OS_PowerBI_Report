@@ -4,7 +4,7 @@ Cleaning and analysing Olive Sales data and creating a report in PowerBI
 
 ## Introduction
 
-Olive Sales is a business involved in the sells of automobiles, train, ships and planes. This project was created due to an interest in the automobile industry as well as working with real data which insights would be interesting to see. 
+Olive Sales is a fictional business involved in the sells of automobiles, train, ships and planes. This project was created due to an interest in the automobile industry as well as working with data which insights would be interesting to see. 
 
 The documentation includes:
 - Report Requirements
